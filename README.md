@@ -8,6 +8,7 @@ Facial Emotion Recognition
   
   * Emotion classification : We trained a ConvNN on a dataset ; link to dataset -> (maybe ne7ot el data beta3etna on Drive).
   The application runs in a real time manner.
+
 **Manual** :
   - For inference :
     > python EmoRec.py
